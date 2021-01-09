@@ -1,0 +1,37 @@
+.main-banner-bg{
+	background-image: url(../ui-material/img/bg/0bg-hero.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
+}
+
+.header-link-container{
+	margin-top: 3.8rem;
+}
+
+.header-link{
+	text-decoration: none;
+	color: #B1B1B7;
+	margin-left: 1.6rem;
+	margin-right: 1.6rem;
+}
+
+.header-link:hover{
+	text-decoration: underline #D46CFF;
+	color: #44FAE3;
+}
+
+.btn-contact{
+	border: solid #D46CFF 0.15rem;
+	border-radius: 0.25rem;
+	color: white;
+	text-decoration: none;
+	padding: 0.2rem 2rem;
+}
+
+.btn-contact:hover{
+	background-color: #D46CFF;
+	-webkit-box-shadow: 0px 2px 14px -1px rgba(68,250,227,1);
+	-moz-box-shadow: 0px 2px 14px -1px rgba(68,250,227,1);
+	box-shadow: 0px 2px 14px -1px rgba(68,250,227,1);
+}
